@@ -1,2 +1,4 @@
 # Visibility-Analysis
 Code and data used for Horizontal Visibility Graph based analysis of streamflow time series.
+
+# Daily scale streamflow time series for the state of Iowa
